@@ -4,6 +4,16 @@
 
 Linux内核之旅是由西邮陈莉君教授创建，我们致力于传播开源文化，教授Linux内核知识，旨在为给广大Linux内核的学者提供一个方便的学习平台。在这里我们提供丰富的学习笔记、文章、视频和实验源码等，供大家学习使用。
 
+[Linux内核之旅微信公众平台](https://github.com/linuxkerneltravel/community/blob/master/WechatPublicAccount.md)
+
+[Linux内核之旅开源社区网站](https://github.com/linuxkerneltravel/community/blob/master/KernelTravelWeb.md)
+
+[Linux内核之旅内核代码GitHub](KernelCode.md)
+
+[]()学堂在线mooc
+
+[]()bilibili视频网站
+
 ## 我们的目标
 1. 开源文化传播
 2. 内核知识教学
