@@ -128,6 +128,8 @@ https://github.com/linuxkerneltravel/community
 
 邮箱：liangjinrong111@163.com
 
+参与方式举例：http://kerneltravel.net/blog/2020/submit_pr/
+
 ## 开源社区组织委员会
 
 | 社区成员 |                  简介                   |                       贡献                        |
