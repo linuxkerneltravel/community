@@ -20,7 +20,7 @@
 
 开源社区子平台详情：
 
-[Linux内核之旅微信公众平台](WechatPublicAccount.md)
+[Linux内核之旅微信公众平台](WechatPublic.md)
 
 [Linux内核之旅开源社区网站](KernelTravelWeb.md)
 
