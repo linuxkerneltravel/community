@@ -112,7 +112,7 @@ https://github.com/linuxkerneltravel/xyLinuxer
 
 https://next.xuetangx.com/course/XIYOU08091001441/1516763
 
-<img src="http://ww1.sinaimg.cn/large/005NFTS2ly1gebmt2y0h1j307u07rwgn.jpg" style="zoom:50%;"/>
+<img src="http://ww1.sinaimg.cn/large/005NFTS2ly1gebmt2y0h1j307u07rwgn.jpg" style="zoom:30%;"/>
 
 5、Linux内核之旅开源社区建设
 
