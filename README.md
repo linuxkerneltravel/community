@@ -133,3 +133,5 @@ https://github.com/linuxkerneltravel/community
 ## 开源社区组织委员会
 
 [Linux内核之旅开源社区组织架构](organization.md)
+
+[Linux内核之旅开源社区纪念品](gifts.md)
