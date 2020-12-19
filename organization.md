@@ -79,12 +79,12 @@
 
 # Linux内核之旅开源社区成员
 
-|Github账号|姓名|组织|角色|邮箱|时间|
+|Github账号|姓名|组织|角色|邮箱|加入时间|
 |:--|--|--|--|--|--|
 ||陈莉君|西安邮电大学|PMC|||
 ||刘钊远|西安邮电大学|PMC|||
 ||许振文|腾讯|PMC、Maintainer|||
-||陈继峰||PMC、Maintainer|||
+||陈继峰|北京信达探索者科技有限公司|PMC、Maintainer|||
 ||赵晨雨|西安邮电大学|PMC、Maintainer|||
 ||梁金荣|西安邮电大学|PMC、Maintainer|||
 ||贺东升|西安邮电大学|Maintainer|||
@@ -105,5 +105,3 @@
 ||陈小龙|西安邮电大学|Contributor|||
 ||成强智星|西安邮电大学|Contributor|||
 ||陈哲|西安邮电大学|Contributor|||
-
-
